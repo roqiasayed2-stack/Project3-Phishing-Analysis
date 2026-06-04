@@ -1,0 +1,15 @@
+Phishing Awareness Analysis
+
+Message:
+Your bank account has been suspended.
+Click here immediately to verify your identity:
+http://secure-bank-login.xyz
+
+Red flags:
+1. Suspicious link
+2. Urgent language
+3. Asking for personal information
+4. Unknown domain name
+
+Why it is unsafe:
+This message tries to scare the user into clicking a fake link and stealing personal information.
